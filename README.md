@@ -9,5 +9,6 @@ Using **predefined K-Means functions**, the algorithm analyzes the RGB color val
 The project demonstrates how **K-Means can be applied beyond numerical data** to solve real-world problems like image compression, data reduction, and pattern recognition. It also highlights the balance between **compression efficiency and visual quality**, showing that even with limited colors, the reconstructed image preserves the original structure and appearance remarkably well.
 
 ---
+<br><br> -+- Created by [Rushabh Mowade](https://github.com/RushabhMowade).
 
 
